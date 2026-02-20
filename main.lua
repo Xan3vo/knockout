@@ -35,7 +35,7 @@ w:Box("Push Power", function(t)
         pushPower = num
     end
 end)
-w:Label("~ t.me/arceusxcommunity", Color3.fromRGB(127, 143, 166))
+w:Label("~ uwuz", Color3.fromRGB(127, 143, 166))
 
 UserInputService.InputBegan:Connect(function(input, gameProcessed)
     if gameProcessed then return end
