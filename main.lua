@@ -1,5 +1,5 @@
 -- https://www.roblox.com/games/136764190843219/Knockout
-local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Turtle-Brand/Turtle-Lib/main/source.lua"))()
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Xan3vo/knockout/refs/heads/main/dont%20worry%20abt%20this.lua"))()
 local w = lib:Window("Knockout!")
 
 local UserInputService = game:GetService("UserInputService")
